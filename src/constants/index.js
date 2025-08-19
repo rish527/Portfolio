@@ -247,6 +247,27 @@ import {
       source_code_link: "https://github.com/rish527/UniHomes",
     },
     {
+      name: "Moviepedia",
+      description:
+        "Moviepedia is a React-based movie discovery platform that allows users to search for movies, add them to favorites, and manage their personalized collection. It integrates API fetching for real-time data, leverages Context API for global state management, and uses localStorage to persist favorites even after a page refresh.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Context API",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "LocalStorage",
+          color: "green-text-gradient",
+        },
+      ],
+      image: github, // replace with your image variable
+      source_code_link: "https://github.com/rish527/Moviepedia", // update with actual repo link
+    },
+    {
       name: "Dynamic Dashboard",
       description:
       "The Dynamic Dashboard is an interactive data visualization platform that presents real-time analytics in a user-friendly, visually engaging format. It enables users to monitor and analyze key metrics efficiently, utilizing modern web technologies for a seamless experience.",
